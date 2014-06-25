@@ -90,3 +90,7 @@ If you want to know how the CocoonJS-CLI does these steps programatically, check
 * Launching the Webview+ inside android's emulator can lead to an application crash. Use a real device for testing.
 * Current version may not reproduce sound files. Will be fixed for next version
 * In some devices 3D context may not be created, this is due to a memory limitation of the device.
+
+### About the author ###
+
+Ludei is a San Francisco based company, creators of CocoonJS. Ludei aims to empower HTML5 industry with a set of tools that eases the adoption of HTML5 as the target platform for every mobile development.
