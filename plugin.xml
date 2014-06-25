@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.ludei.webview.plus" version="1.0.0">
+
+	<name>Webview+</name>
+	<author>Ludei Team</author>
+
+    <!-- android -->
+    <platform name="android">
+    	<source-file src="android/assets/content_shell.pak" target-dir="assets/" />
+
+    	<config-file target="AndroidManifest.xml" parent="/manifest/application">
+		    <service android:name="org.chromium.content.app.SandboxedProcessService0"
+			android:process=":sandboxed_process0"
+			android:permission="org.chromium.content_shell.permission.SANDBOX"
+			android:isolatedProcess="true"
+			android:exported="false" />
+			<service android:name="org.chromium.content.app.SandboxedProcessService1"
+			android:process=":sandboxed_process1"
+			android:permission="org.chromium.content_shell.permission.SANDBOX"
+			android:isolatedProcess="true"
+			android:exported="false" />
+		</config-file>
+    </platform>
+
+</plugin>
