@@ -12,11 +12,14 @@ This project is a plugin for cordova apps, and provides a **uniform webview on a
 
 #### How to install the Webview+ in your current project ####
 
-Even though it's a cordova-compatible plugin, some steps must be done for the installation. If you prefer, you can install it automatically using the [CocoonJS Command Line Interface](https://github.com/ludei/cocoonjs-cli). The cocoonjs-cli has the same usage and commands of [cordova-cli](https://github.com/apache/cordova-cli#project-commands).
+Even though it's a cordova-compatible plugin, some steps must be done for the installation. If you prefer, you can install it automatically using the [CocoonJS Command Line Interface](https://github.com/ludei/cocoonjs-cli). 
+
+The cocoonjs-cli has the same usage and commands of [cordova-cli](https://github.com/apache/cordova-cli#project-commands).
 
 Once the cocoonjs-cli is installed in your system, just type:
 
 ```
+$ cd /to/your/cordova/based/project
 $ cocoonjs plugin add com.ludei.webview.plus
 ```
 
