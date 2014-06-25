@@ -2,7 +2,7 @@
 
 This project is a plugin for cordova apps, and provides a **uniform webview on any Android 4.x device.**.
 
-### Webview+ Features, Advantages and Benefits  ###
+## Webview+ Features, Advantages and Benefits  ##
 
 * V8 Javascript VM
 * Works on Android 4.x
@@ -10,7 +10,7 @@ This project is a plugin for cordova apps, and provides a **uniform webview on a
 * Compatible with Cordova Plugins
 * Better performance than system webview
 
-### How to install the Webview+ in your current project ###
+#### How to install the Webview+ in your current project ####
 
 Even though it's a cordova-compatible plugin, some steps must be done for the installation. If you prefer, you can install it automatically using the [CocoonJS Command Line Interface](https://github.com/ludei/cocoonjs-cli). The cocoonjs-cli has the same usage and commands of [cordova-cli](https://github.com/apache/cordova-cli#project-commands).
 
@@ -20,7 +20,7 @@ Once the cocoonjs-cli is installed in your system, just type:
 $ cocoonjs plugin add com.ludei.webview.plus
 ```
 
-### Manual installation  ###
+#### Manual installation  ####
 The CocoonJS-CLI automates the installation of the Webview+, but if for some reason you want to install the Webview+ without the CocoonJS-CLI you’ll have to do the following steps.
 
 These steps are specific for Cordova 3.4.0 and higher. If you want to install manually Webview+ in previous versions, please, refer to the hooks in the cocoonjs-cli
@@ -82,7 +82,7 @@ There you go. Now that you have installed the Webview+ in your project you can r
 
 If you want to know how the CocoonJS-CLI does these steps programatically, check the sources at android/hooks folder (after_plugin_add / after_plugin_rm).
 
-### Known bugs ###
+#### Known bugs ####
 
 * Launching the Webview+ inside android's emulator can lead to an application crash. Use a real device for testing.
 * Current version may not reproduce sound files. Will be fixed for next version
