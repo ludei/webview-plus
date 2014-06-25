@@ -1,0 +1,28 @@
+{
+  "name": "webview-plus",
+  "version": "1.0.0",
+  "description": "uniform webview on any Android 4.x device..",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ludei/webview-plus.git"
+  },
+  "keywords": [
+    "webview",
+    "html5",
+    "apps",
+    "cordova",
+    "ludei",
+    "cocoonjs"
+  ],
+  "author": "Carlos Hernández Gómez - @k4rliky",
+  "contributors": [
+    {
+      "name": "Imanol Fernandez Gorostizaga"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/ludei/webview-plus/issues"
+  },
+  "homepage": "https://github.com/ludei/webview-plus"
+}
