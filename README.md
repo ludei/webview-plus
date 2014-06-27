@@ -10,6 +10,9 @@ This project is a plugin for cordova apps, and provides a **uniform webview on a
 * Compatible with Cordova Plugins
 * Better performance than system webview
 
+### Prerequisites ###
+You'll need [android SDK API](http://developer.android.com/guide/topics/manifest/uses-sdk-element.html) level 19 installed in with your SDK tools.
+
 #### How to install the Webview+ in your current project ####
 
 Even though it's a cordova-compatible plugin, some steps must be done for the installation. If you prefer, you can install it automatically using the [CocoonJS Command Line Interface](https://github.com/ludei/cocoonjs-cli). 
