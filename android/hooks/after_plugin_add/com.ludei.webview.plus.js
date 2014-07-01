@@ -79,7 +79,9 @@ App.prototype = {
 		if( !(project_properties_data.toString('utf-8').indexOf("com.ludei.webview.plus") != -1) ){
 
 		console.log("Adding Chromiun as a project reference into " + PROJECT_PROPERTIES_PATH, "Cordova version", this.CORDOVA_VERSION);
-
+		if(inWindows){
+			RELATIVE_CHROMIUM_PATH = RELATIVE_CHROMIUM_PATH.replaceAll(pathLib.sep, '\\\\');
+		}
 		if(this.CORDOVA_VERSION === "3.2.0-0.1.0"){
 			fs.renameSync( pathLib.join( CORDOVA_LIBRARY_PATH ), pathLib.join( this.plugin_path, "resources", "cordova-3.2.0.jar") );
 			fs.renameSync( pathLib.join(this.plugin_path, "resources", "cordova-ludei-framework.jar"), pathLib.join(process.cwd() , "platforms", "android", "libs", "cordova-ludei-framework.jar"));
