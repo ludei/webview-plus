@@ -1,7 +1,7 @@
 {
   "name": "webview-plus",
-  "version": "1.0.0",
-  "description": "uniform webview on any Android 4.x device..",
+  "version": "2.0.0",
+  "description": "Uniform webview on any Android 4.x device..",
   "main": "index.js",
   "repository": {
     "type": "git",

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.ludei.webview.plus" version="1.0.0">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.ludei.webview.plus" version="2.0.0">
 
 	<name>Webview+</name>
-	<author>Ludei Team</author>
+	<author>Ludei</author>
 
     <!-- android -->
     <platform name="android">
     	<source-file src="android/assets/content_shell.pak" target-dir="assets/" />
+    	<source-file src="android/assets/icudtl.dat" target-dir="assets/" />
 
     	<config-file target="AndroidManifest.xml" parent="/manifest/application">
 		    <service android:name="org.chromium.content.app.SandboxedProcessService0"
