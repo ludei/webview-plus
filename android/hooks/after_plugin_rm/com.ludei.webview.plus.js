@@ -12,12 +12,12 @@ String.prototype.replaceAll = function(find, replace) {
 
 var App = function(plugin_name) {
 
-    if (!process.env.CORDOVA_PATH_BINARY || !process.env.CORDOVA_VERSION || !process.env.CORDOVA_PLUGIN_PATH) {
+    if (!process.env.CORDOVA_PATH_BINARY || !process.env.CORDOVA_CUSTOM_VERSION || !process.env.CORDOVA_PLUGIN_PATH) {
         process.exit(0);
     }
 
     this.CORDOVA_PATH_BINARY = new Buffer(process.env.CORDOVA_PATH_BINARY, 'base64').toString();
-    this.CORDOVA_VERSION = new Buffer(process.env.CORDOVA_VERSION, 'base64').toString();
+    this.CORDOVA_CUSTOM_VERSION = new Buffer(process.env.CORDOVA_CUSTOM_VERSION, 'base64').toString();
     this.plugin_name = plugin_name;
     this.plugin_path = this.getPath(new Buffer(process.env.CORDOVA_PLUGIN_PATH, 'base64').toString());
     this.plugin_path_android = pathLib.join(this.plugin_path, "../", "android");
@@ -37,7 +37,7 @@ App.prototype = {
         task(this.CORDOVA_PATH_BINARY + " plugins", function (error, stdout, stderr) {
             try{
                 if(error) throw new Error(stderr);
-                if(this.ctx.CORDOVA_VERSION >= "3.5.0-0.1.0"){
+                if(this.ctx.CORDOVA_CUSTOM_VERSION >= "3.5.0-0.1.0"){
                     var tmp_list = [];
                     stdout.split("\\n").forEach(function(plugin_info){
                         tmp_list.push(plugin_info.split(" ")[0]);
@@ -68,17 +68,17 @@ App.prototype = {
     removeChromium: function() {
 
         var CORDOVA_LIBRARY_PATH = this.getPath("./platforms/android/libs/cordova-3.2.0.jar");
-        var PROJECT_PROPERTIES_PATH = (this.CORDOVA_VERSION === "3.2.0-0.1.0") ? pathLib.join(process.cwd(), "platforms", "android", "project.properties") : pathLib.join(process.cwd(), "platforms" , "android", "CordovaLib" , "project.properties");
+        var PROJECT_PROPERTIES_PATH = (this.CORDOVA_CUSTOM_VERSION === "3.2.0-0.1.0") ? pathLib.join(process.cwd(), "platforms", "android", "project.properties") : pathLib.join(process.cwd(), "platforms" , "android", "CordovaLib" , "project.properties");
         var CORDOVA_FRAMEWORK_WEBVIEW_PATH = this.getPath("./platforms/android/CordovaLib/src/org/apache/cordova/CordovaWebView.java");
-        var PROJECT_PROPERTIES_RELATIVE_PATH = (this.CORDOVA_VERSION === "3.2.0-0.1.0") ? process.cwd() + "/platforms/android/" : process.cwd() + "/platforms/android/CordovaLib/";
+        var PROJECT_PROPERTIES_RELATIVE_PATH = (this.CORDOVA_CUSTOM_VERSION === "3.2.0-0.1.0") ? process.cwd() + "/platforms/android/" : process.cwd() + "/platforms/android/CordovaLib/";
         var RELATIVE_CHROMIUM_PATH = pathLib.relative(this.getPath(PROJECT_PROPERTIES_RELATIVE_PATH), this.getPath(this.plugin_path_android));
         var project_properties_data = fs.readFileSync(PROJECT_PROPERTIES_PATH);
 
         if ( project_properties_data.toString('utf-8').indexOf(this.plugin_name) !== -1 ) {
 
-            console.log("Removing Chromium" , PROJECT_PROPERTIES_PATH, "Cordova version", this.CORDOVA_VERSION);
+            console.log("Removing Chromium" , PROJECT_PROPERTIES_PATH, "Cordova version", this.CORDOVA_CUSTOM_VERSION);
 
-            if (this.CORDOVA_VERSION === "3.2.0-0.1.0") {
+            if (this.CORDOVA_CUSTOM_VERSION === "3.2.0-0.1.0") {
                 fs.renameSync(pathLib.join(this.plugin_path, "resources", "cordova-3.2.0.jar"), pathLib.join(CORDOVA_LIBRARY_PATH));
                 fs.renameSync(pathLib.join(process.cwd(), "platforms", "android", "libs", "cordova-ludei-framework.jar"), pathLib.join(this.plugin_path, "resources", "cordova-ludei-framework.jar"));
                 if (fs.existsSync(CORDOVA_LIBRARY_PATH)) {
@@ -92,7 +92,7 @@ App.prototype = {
                 console.log("Chromium deleted correctly.");
             }
 
-            if(this.CORDOVA_VERSION >= "3.3.0-0.1.0"){
+            if(this.CORDOVA_CUSTOM_VERSION >= "3.3.0-0.1.0"){
                 var cordova_webview_contents = fs.readFileSync(CORDOVA_FRAMEWORK_WEBVIEW_PATH).toString('utf-8');
                 var extend_original = "import com.ludei.chromium.LudeiWebView;\n public class CordovaWebView extends LudeiWebView";
                 var extend_end = "public class CordovaWebView extends WebView";
