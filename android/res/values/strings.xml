@@ -5,91 +5,12 @@
      found in the LICENSE file.
 -->
 
-<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Contextual action bar item for sharing a block of text via email, or
-         other method. [CHAR-LIMIT=24] -->
-    <string name="webviewchromium_actionbar_share">Share</string>
-    <!-- Contextual action bar item for using the selected text in a internet
-         search. [CHAR-LIMIT=24] -->
-    <string name="webviewchromium_actionbar_web_search">Web search</string>
+<!-- DO NOT ADD STRINGS HERE.
 
-    <!-- Content description for the content view that holds the web contents [CHAR-LIMIT=32] -->
-    <string name="webviewchromium_accessibility_content_view">Web View</string>
+    Android content strings now live in
+    content/public/android/java/strings/android_content_strings.grd
 
-    <!-- Date/time picker dialog strings -->
-    <!-- Label for 'set' button in date picker dialog, used to replace the contents of a field with the chosen date [CHAR-LIMIT=12] -->
-    <string name="webviewchromium_date_picker_dialog_set">Set</string>
-    <!-- Label for 'clear' button in date picker dialog, used to replace the contents of a field with the empty string [CHAR-LIMIT=12] -->
-    <string name="webviewchromium_date_picker_dialog_clear">Clear</string>
-    <!-- Title for the date picker dialog, which can be used to choose a date. [CHAR-LIMIT=32] -->
-    <string name="webviewchromium_date_picker_dialog_title">Set date</string>
-    <!-- Title for the date/time picker dialog, which can be used to choose a date and time. [CHAR-LIMIT=32] -->
-    <string name="webviewchromium_date_time_picker_dialog_title">Set date and time</string>
-    <!-- Title for the month picker dialog, which can be used to choose a month. [CHAR-LIMIT=32] -->
-    <string name="webviewchromium_month_picker_dialog_title">Set month</string>
-    <!-- Title for the week picker dialog, which can be used to choose a week. [CHAR-LIMIT=32] -->
-    <string name="webviewchromium_week_picker_dialog_title">Set week</string>
-    <!-- Content description for the date time picker date component. [CHAR-LIMIT=32] -->
-    <string name="webviewchromium_accessibility_datetime_picker_date">Date</string>
-    <!-- Content description for the date time picker time component. [CHAR-LIMIT=32] -->
-    <string name="webviewchromium_accessibility_datetime_picker_time">Time</string>
-    <!-- Content description for the date time picker month component. [CHAR-LIMIT=32] -->
-    <string name="webviewchromium_accessibility_date_picker_month">Month</string>
-    <!-- Content description for the date time picker week component. [CHAR-LIMIT=32] -->
-    <string name="webviewchromium_accessibility_date_picker_week">Week</string>
-    <!-- Content description for the date time picker year component. [CHAR-LIMIT=32] -->
-    <string name="webviewchromium_accessibility_date_picker_year">Year</string>
+    See http://www.chromium.org/developers/design-documents/ui-localization
+-->
 
-    <!-- Media player -->
-    <!-- NO DESCRIPTION [CHAR-LIMIT=32] -->
-    <string name="webviewchromium_media_player_error_title">Cannot play video</string>
-    <!-- NO DESCRIPTION [CHAR-LIMIT=100] -->
-    <string name="webviewchromium_media_player_error_text_invalid_progressive_playback">
-      Sorry, this video is not valid for streaming to this device.</string>
-    <!-- NO DESCRIPTION [CHAR-LIMIT=100] -->
-    <string name="webviewchromium_media_player_error_text_unknown">
-      Sorry, this video cannot be played.</string>
-    <!-- NO DESCRIPTION [CHAR-LIMIT=16] -->
-    <string name="webviewchromium_media_player_error_button">OK</string>
-    <!-- NO DESCRIPTION [CHAR-LIMIT=20] -->
-    <string name="webviewchromium_media_player_loading_video">Loading video</string>
-
-    <!-- Text for Color Picker button to go to advanced view. [CHAR-LIMIT=20] -->
-    <string name="webviewchromium_color_picker_button_more">More</string>
-    <!-- Label for hue slider in Color Picker. -->
-    <string name="webviewchromium_color_picker_hue">Hue</string>
-    <!-- Label for saturation slider in Color Picker. -->
-    <string name="webviewchromium_color_picker_saturation">Saturation</string>
-    <!-- Label for value slider in Color Picker. -->
-    <string name="webviewchromium_color_picker_value">Value</string>
-    <!-- Label for button in Color Picker dialog for user to accept the currently
-         chosen color. [CHAR-LIMIT=20] -->
-    <string name="webviewchromium_color_picker_button_set">Set</string>
-    <!-- Label for button in Color Picker dialog for user to cancel picking a
-         color. [CHAR-LIMIT=20] -->
-    <string name="webviewchromium_color_picker_button_cancel">Cancel</string>
-    <!-- Title of Color Picker dialog. [CHAR-LIMIT=20] -->
-    <string name="webviewchromium_color_picker_dialog_title">Select color</string>
-
-    <!-- Error shown when the browser is restarted due to low memory during a file picker operation. [CHAR-LIMIT=NONE] -->
-    <string name="webviewchromium_low_memory_error">Unable to complete previous operation due to low memory</string>
-
-    <!--Toast when the browser is unable to open a file for upload. [CHAR-LIMIT=32] -->
-    <string name="webviewchromium_opening_file_error">Failed to open selected file</string>
-
-    <!-- Warning shown when the app tries to create a private browsing WebView,
-         which is not supported. [CHAR-LIMIT=NONE] -->
-    <string name="webviewchromium_private_browsing_warning">This functionality is not supported in this version of Android.</string>
-
-    <string name="js_dialog_title" msgid="1987483977834603872">"The page at \"<xliff:g id="TITLE">%s</xliff:g>\" says:"</string>
-    <string name="js_dialog_title_default" msgid="6961903213729667573">"JavaScript"</string>
-    <string name="js_dialog_before_unload_title" msgid="2619376555525116593">"Confirm Navigation"</string>
-    <string name="js_dialog_before_unload_positive_button" msgid="3112752010600484130">"Leave this Page"</string>
-    <string name="js_dialog_before_unload_negative_button" msgid="5614861293026099715">"Stay on this Page"</string>
-    <string name="js_dialog_before_unload" msgid="3468816357095378590">"<xliff:g id="MESSAGE">%s</xliff:g>\n\nAre you sure you want to navigate away from this page?"</string>
-    <string name="ok" msgid="5970060430562524910">"OK"</string>
-    <string name="cancel" msgid="6442560571259935130">"Cancel"</string>
-    <string name="share" msgid="1778686618230011964">"Share"</string>
-    <string name="websearch" msgid="4337157977400211589">"Web Search"</string>
-
-</resources>
+<resources/>

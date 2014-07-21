@@ -18,7 +18,6 @@
 -->
 
 <resources>
-    <attr name="webviewchromium_select_dialog_multichoice" format="reference" />
-    <attr name="webviewchromium_select_dialog_singlechoice" format="reference" />
-    <attr name="chromiumDropdownListPreferredItemHeight" format="dimension" />
+    <attr name="select_dialog_multichoice" format="reference" />
+    <attr name="select_dialog_singlechoice" format="reference" />
 </resources>
