@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (c) 2012 The Chromium Authors. All rights reserved.
+<!-- Copyright 2013 The Chromium Authors. All rights reserved.
 
      Use of this source code is governed by a BSD-style license that can be
      found in the LICENSE file.
 -->
-
 <resources>
-    <!-- Link Preview dimensions -->
-    <dimen name="webviewchromium_link_preview_overlay_radius">7dp</dimen>
 
     <!--
-        14.5 = Seekbar thumb width - border width, but it depends on the width
-            of the seek bar icon.
+         14.5 = Seekbar thumb width - border width, but it depends on the width
+	     of the seek bar icon.
     -->
-    <dimen name="webviewchromium_color_picker_gradient_margin">14.5dp</dimen>
+    <dimen name="color_picker_gradient_margin">14.5dp</dimen>
+    <dimen name="color_button_height">60dp</dimen>
+    <dimen name="dropdown_item_height">44dp</dimen>
+    <dimen name="dropdown_item_divider_height">1px</dimen>
+
+    <!--
+         Fallback values if the corresponding com.android.internal.R dimensions
+         cannot be retrieved by name.
+         Note: Constants taken directly from Android's core/res/values/config.xml.
+    -->
+    <dimen name="config_min_scaling_span">27.0mm</dimen>
+    <dimen name="config_min_scaling_touch_major">48.0dp</dimen>
+
+        <!-- Link Preview dimensions -->
+    <dimen name="link_preview_overlay_radius">7dp</dimen>
+
 </resources>
