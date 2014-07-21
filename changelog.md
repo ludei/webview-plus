@@ -1,3 +1,8 @@
+## 2.1.0
+
+- Updated and fixed Webview+ R files
+- Added some translations to resources folder
+
 ## 2.0.0
 
 - Fix for Audio(); object that doesn't reproduces the sound
