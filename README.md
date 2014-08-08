@@ -36,7 +36,7 @@ These steps are specific for Cordova 3.4.0 and higher. If you want to install ma
 Clone the Webview+ repository in your computer:
 
 ```
-$ git checkout git@github.com:ludei/webview-plus.git
+git clone https://github.com/ludei/webview-plus.git
 ```
 
 **Step 2**
