@@ -1,3 +1,8 @@
+## 2.2.0
+
+- Added support for Date/time input types
+- Minor improvements
+
 ## 2.1.0
 
 - Updated and fixed Webview+ R files (this solves the native dropdown crash https://github.com/ludei/webview-plus/issues/3)
