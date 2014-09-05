@@ -23,7 +23,4 @@
     <dimen name="config_min_scaling_span">27.0mm</dimen>
     <dimen name="config_min_scaling_touch_major">48.0dp</dimen>
 
-        <!-- Link Preview dimensions -->
-    <dimen name="link_preview_overlay_radius">7dp</dimen>
-
 </resources>

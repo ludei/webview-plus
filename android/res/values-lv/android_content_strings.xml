@@ -6,7 +6,7 @@
 <string name="date_picker_dialog_title">"Datuma iestatīšana"</string>
 <string name="date_picker_dialog_set">"Iestatīt"</string>
 <string name="date_picker_dialog_clear">"Notīrīt"</string>
-<string name="date_picker_dialog_other_button_label">"Citi"</string>
+<string name="date_picker_dialog_other_button_label">"Cits"</string>
 <string name="date_time_picker_dialog_title">"Datuma un laika iestatīšana"</string>
 <string name="time_picker_dialog_title">"Laika iestatīšana"</string>
 <string name="time_picker_dialog_am">"AM"</string>

@@ -6,7 +6,7 @@
 <string name="date_picker_dialog_title">"Nastavenie dátumu"</string>
 <string name="date_picker_dialog_set">"Nastaviť"</string>
 <string name="date_picker_dialog_clear">"Vymazať"</string>
-<string name="date_picker_dialog_other_button_label">"Iný"</string>
+<string name="date_picker_dialog_other_button_label">"Iné"</string>
 <string name="date_time_picker_dialog_title">"Nastavenie dátumu a času"</string>
 <string name="time_picker_dialog_title">"Nastavenie času"</string>
 <string name="time_picker_dialog_am">"AM"</string>

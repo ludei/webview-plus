@@ -6,7 +6,7 @@
 <string name="date_picker_dialog_title">"Nustatykite datą"</string>
 <string name="date_picker_dialog_set">"Nustatyti"</string>
 <string name="date_picker_dialog_clear">"Išvalyti"</string>
-<string name="date_picker_dialog_other_button_label">"Kita"</string>
+<string name="date_picker_dialog_other_button_label">"Kitas"</string>
 <string name="date_time_picker_dialog_title">"Nustatykite datą ir laiką"</string>
 <string name="time_picker_dialog_title">"Nustatykite laiką"</string>
 <string name="time_picker_dialog_am">"priešpiet"</string>

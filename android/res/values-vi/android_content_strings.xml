@@ -16,7 +16,7 @@
 <string name="time_picker_dialog_second_subsecond_separator">"."</string>
 <string name="month_picker_dialog_title">"Đặt tháng"</string>
 <string name="week_picker_dialog_title">"Đặt tuần"</string>
-<string name="accessibility_datetime_picker_date">"Ngày"</string>
+<string name="accessibility_datetime_picker_date">"Ngày Tháng"</string>
 <string name="accessibility_datetime_picker_time">"Thời gian"</string>
 <string name="accessibility_date_picker_month">"Tháng"</string>
 <string name="accessibility_date_picker_week">"Tuần"</string>
