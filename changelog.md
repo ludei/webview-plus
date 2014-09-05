@@ -1,3 +1,8 @@
+## 2.3.0
+
+- Fixed WebView+ problems: Avoided creation of unneeded shell instance.
+- Fixed WebView cache mode and LudeiContentsIoThreadClient client
+
 ## 2.2.0
 
 - Added support for Date/time input types
