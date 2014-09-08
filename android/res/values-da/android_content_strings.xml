@@ -6,7 +6,7 @@
 <string name="date_picker_dialog_title">"Angiv dato"</string>
 <string name="date_picker_dialog_set">"Angiv"</string>
 <string name="date_picker_dialog_clear">"Ryd"</string>
-<string name="date_picker_dialog_other_button_label">"Andre"</string>
+<string name="date_picker_dialog_other_button_label">"Andet"</string>
 <string name="date_time_picker_dialog_title">"Angiv dato og klokkeslæt"</string>
 <string name="time_picker_dialog_title">"Angiv klokkeslæt"</string>
 <string name="time_picker_dialog_am">"AM"</string>

@@ -6,7 +6,7 @@
 <string name="date_picker_dialog_title">"تنظیم تاریخ"</string>
 <string name="date_picker_dialog_set">"تنظیم"</string>
 <string name="date_picker_dialog_clear">"پاک کردن"</string>
-<string name="date_picker_dialog_other_button_label">"موارد دیگر"</string>
+<string name="date_picker_dialog_other_button_label">"دیگر"</string>
 <string name="date_time_picker_dialog_title">"تنظیم تاریخ و زمان"</string>
 <string name="time_picker_dialog_title">"تنظیم زمان"</string>
 <string name="time_picker_dialog_am">"ق.ظ"</string>

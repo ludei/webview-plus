@@ -6,7 +6,7 @@
 <string name="date_picker_dialog_title">"Ustaw datę"</string>
 <string name="date_picker_dialog_set">"Ustaw"</string>
 <string name="date_picker_dialog_clear">"Wyczyść"</string>
-<string name="date_picker_dialog_other_button_label">"Inny"</string>
+<string name="date_picker_dialog_other_button_label">"Inne"</string>
 <string name="date_time_picker_dialog_title">"Ustaw datę i godzinę"</string>
 <string name="time_picker_dialog_title">"Ustaw czas"</string>
 <string name="time_picker_dialog_am">"AM"</string>
