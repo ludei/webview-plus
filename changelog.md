@@ -1,3 +1,10 @@
+## 2.3.1
+- Updated Webview+ to Chromium 1.0.36.0.1985.143
+## 2.3.0
+
+- Fixed WebView+ problems: Avoided creation of unneeded shell instance.
+- Fixed WebView cache mode and LudeiContentsIoThreadClient client
+
 ## 2.2.0
 
 - Added support for Date/time input types
@@ -5,7 +12,7 @@
 
 ## 2.1.0
 
-- Updated and fixed Webview+ R files
+- Updated and fixed Webview+ R files (this solves the native dropdown crash https://github.com/ludei/webview-plus/issues/3)
 - Added some translations to resources folder
 
 ## 2.0.0

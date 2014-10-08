@@ -91,8 +91,9 @@ If you want to know how the CocoonJS-CLI does these steps programatically, check
 #### Known bugs ####
 
 * Launching the Webview+ inside android's emulator can lead to an application crash. Use a real device for testing.
-* Current version may not reproduce sound files. Will be fixed for next version
+* Current version may not reproduce sound files. It will be fixed in one of the next releases.
 * In some devices 3D context may not be created, this is due to a memory limitation of the device.
+* As android SDK API level 19 is required, if it is not installed properly in the machine, it will raise an "Unable to resolve project target 'Google Inc.:Google APIs:19'" compilation error. Here it is a [step-by-step guide](https://github.com/ludei/cocoonjs-cli/wiki/How-to-solve-the-compilation-error:-%E2%80%9CUnable-to-resolve-project-target-'Google-Inc.:Google-APIs:19'%E2%80%9D) to solve this issue. 
 
 ### About the author ###
 
