@@ -1,6 +1,3 @@
-## 2.3.1
-- Updated Webview+ to Chromium 1.0.36.0.1985.143
-
 ## 2.3.0
 
 - Fixed WebView+ problems: Avoided creation of unneeded shell instance.
