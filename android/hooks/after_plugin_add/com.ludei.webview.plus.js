@@ -53,9 +53,9 @@ App.prototype = {
 					this.cllbck.call(this.ctx, false);
 				}
 			}catch(e){
-				console.log(e);
+
 			}finally{
-				process.exit(1);
+				process.exit(0);
 			}
 		}.bind({ cllbck : callback, ctx : this }));
 	},
