@@ -1,3 +1,8 @@
+## 2.4.0
+
+- Solve problem with the addJavaScriptInterface not working in some devices.
+- Update Chromium to 1.0.37.0.2062.94
+
 ## 2.3.0
 
 - Fixed WebView+ problems: Avoided creation of unneeded shell instance.
