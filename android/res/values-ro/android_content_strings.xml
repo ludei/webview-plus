@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
-<string name="actionbar_share">"Distribuiți"</string>
+<string name="actionbar_share">"Trimiteți"</string>
 <string name="actionbar_web_search">"Căutare pe web"</string>
 <string name="accessibility_content_view">"Vizualizare pe web"</string>
 <string name="date_picker_dialog_title">"Setați data"</string>
