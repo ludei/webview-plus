@@ -1,6 +1,8 @@
-# Webview+ #
+# Webview+ for Android #
 
-This project is a plugin for cordova apps, and provides a **uniform webview on any Android 4.x device.**.
+This project is a plugin for cordova/phonegap apps, and provides a **uniform webview on any Android 4.x device.**.
+
+Looking for [Webview+ for iOs](https://github.com/ludei/webview-plus-ios)?
 
 ## Webview+ Features, Advantages and Benefits  ##
 
@@ -97,4 +99,4 @@ If you want to know how the CocoonJS-CLI does these steps programatically, check
 
 ### About the author ###
 
-Ludei is a San Francisco based company, creators of CocoonJS. Ludei aims to empower HTML5 industry with a set of tools that eases the adoption of HTML5 as the target platform for every mobile development.
+[Ludei](http://www.ludei.com) is a San Francisco based company, creators of CocoonJS. Ludei aims to empower HTML5 industry with a set of tools that eases the adoption of HTML5 as the target platform for every mobile development.
