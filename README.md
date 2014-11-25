@@ -24,9 +24,17 @@ The cocoonjs-cli has the same usage and commands of [cordova-cli](https://github
 Once the cocoonjs-cli is installed in your system, just type:
 
 ```
-$ cd /to/your/cordova/based/project
-$ cocoonjs plugin add com.ludei.webview.plus
+// Install Ludei's CLI
+$ sudo npm install -g cocoonjs
+
+$ cocoonjs create MyProject
+$ cd MyProject
+$ cocoonjs platform add ios
+$ cocoonjs plugin add com.ludei.webview.plus -d
+$ cocoonjs run/emulate
 ```
+
+The `-d` flag is used to activate the verbose mode.
 
 #### Manual installation  ####
 The CocoonJS-CLI automates the installation of the Webview+, but if for some reason you want to install the Webview+ without the CocoonJS-CLI you’ll have to do the following steps.
