@@ -112,14 +112,13 @@ App.prototype = {
             var android_manifest_path = pathLib.join( process.cwd() , "platforms", "android", "AndroidManifest.xml");
             if(fs.existsSync(android_manifest_path)){
                 var manifest_data = fs.readFileSync(android_manifest_path).toString("utf8");
-                var manigest_reg_exp = /android:minSdkVersion="([^"]*)"/i;
-                var result = manifest_data.match(manigest_reg_exp);
-                if(result[1]){
-                    var android_api_level = parseInt(result[1]);
-                    if( android_api_level >= 14 ){
-                        manifest_data = manifest_data.replace(manigest_reg_exp, 'android:targetSdkVersion="10"');
-                        fs.writeFileSync(android_manifest_path, manifest_data, 'utf8');
-                    }
+                var manigest_reg_exp = /<uses-sdk (.*) \/>/i;
+                var results = manifest_data.match(manigest_reg_exp);
+                if(results){
+                    console.log("Update minSdkVersion to 10 (Gingerbread)");
+                    var needed_sdk = "<uses-sdk android:minSdkVersion='10' android:targetSdkVersion='19' />";
+                    manifest_data = manifest_data.replace(manigest_reg_exp, needed_sdk);
+                    fs.writeFileSync(android_manifest_path, manifest_data, 'utf8');
                 }
             }else{
                 console.error("Cannot locate Android Manifest");
