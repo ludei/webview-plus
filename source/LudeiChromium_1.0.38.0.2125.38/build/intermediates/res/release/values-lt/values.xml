@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-lt/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="accessibility_content_view">"Žiniatinklio rodinys"</string>
+    <string name="accessibility_date_picker_month">"Mėnuo"</string>
+    <string name="accessibility_date_picker_week">"Savaitė"</string>
+    <string name="accessibility_date_picker_year">"Metai"</string>
+    <string name="accessibility_datetime_picker_date">"Data"</string>
+    <string name="accessibility_datetime_picker_time">"Laikas"</string>
+    <string name="accessibility_time_picker_ampm">"iki pietų / po pietų"</string>
+    <string name="accessibility_time_picker_hour">"Valanda"</string>
+    <string name="accessibility_time_picker_milli">"Milisekundė"</string>
+    <string name="accessibility_time_picker_minute">"Minutė"</string>
+    <string name="accessibility_time_picker_second">"Sekundė"</string>
+    <string name="actionbar_share">"Bendrinti"</string>
+    <string name="actionbar_web_search">"Žiniatinklio paieška"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-lt/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="color_picker_button_black">"Juoda"</string>
+    <string name="color_picker_button_blue">"Mėlyna"</string>
+    <string name="color_picker_button_cancel">"Atšaukti"</string>
+    <string name="color_picker_button_cyan">"Žydra"</string>
+    <string name="color_picker_button_green">"Žalia"</string>
+    <string name="color_picker_button_magenta">"Purpurinė"</string>
+    <string name="color_picker_button_more">"Daugiau"</string>
+    <string name="color_picker_button_red">"Raudona"</string>
+    <string name="color_picker_button_set">"Nustatyti"</string>
+    <string name="color_picker_button_white">"Balta"</string>
+    <string name="color_picker_button_yellow">"Geltona"</string>
+    <string name="color_picker_dialog_title">"Pasirinkite spalvą"</string>
+    <string name="color_picker_hue">"Spalva"</string>
+    <string name="color_picker_saturation">"Spalvų sodrumas"</string>
+    <string name="color_picker_value">"Reikšmė"</string>
+    <string name="copy_to_clipboard_failure_message">"Nepavyko nukopijuoti į iškarpinę"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-lt/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="date_picker_dialog_clear">"Išvalyti"</string>
+    <string name="date_picker_dialog_other_button_label">"Kitas"</string>
+    <string name="date_picker_dialog_set">"Nustatyti"</string>
+    <string name="date_picker_dialog_title">"Nustatykite datą"</string>
+    <string name="date_time_picker_dialog_title">"Nustatykite datą ir laiką"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-lt/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="low_memory_error">"Nepavyko baigti ankstesnio veiksmo dėl atminties trūkumo"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-lt/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="media_player_error_button">"Gerai"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Apgailestaujame, šis vaizdo įrašas yra netinkamas perduoti srautu į šį įrenginį."</string>
+    <string name="media_player_error_text_unknown">"Apgailestaujame, šio vaizdo įrašo negalima paleisti."</string>
+    <string name="media_player_error_title">"Nepavyksta paleisti vaizdo įrašo"</string>
+    <string name="media_player_loading_video">"Įkel. v. įrašas"</string>
+    <string name="month_picker_dialog_title">"Nustatykite mėnesį"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-lt/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="opening_file_error">"Atid. pasir. failą įvyko klaida"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-lt/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="profiler_error_toast">"Paleidžiant profiliavimo priemonę įvyko klaida"</string>
+    <string name="profiler_no_storage_toast">"Nepavyksta paleisti profiliavimo priemonės, nes išorinė atmintis neparuošta"</string>
+    <string name="profiler_started_toast">"Profiliavimo priemonė paleista"</string>
+    <string name="profiler_stopped_toast">"Profiliavimo priemonės veiksmai baigti. Rezultatai išsaugoti „%1$s“."</string>
+    <string name="time_picker_dialog_am">"priešpiet"</string>
+    <string name="time_picker_dialog_hour_minute_separator">":"</string>
+    <string name="time_picker_dialog_minute_second_separator">":"</string>
+    <string name="time_picker_dialog_pm">"popiet"</string>
+    <string name="time_picker_dialog_second_subsecond_separator">"."</string>
+    <string name="time_picker_dialog_title">"Nustatykite laiką"</string>
+    <string name="week_picker_dialog_title">"Nustatykite savaitę"</string>
+
+</resources>

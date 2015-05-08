@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-sl/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="accessibility_content_view">"Spletni pogled"</string>
+    <string name="accessibility_date_picker_month">"Mesec"</string>
+    <string name="accessibility_date_picker_week">"Teden"</string>
+    <string name="accessibility_date_picker_year">"Leto"</string>
+    <string name="accessibility_datetime_picker_date">"Datum"</string>
+    <string name="accessibility_datetime_picker_time">"Čas"</string>
+    <string name="accessibility_time_picker_ampm">"Dopoldne/popoldne"</string>
+    <string name="accessibility_time_picker_hour">"Ura"</string>
+    <string name="accessibility_time_picker_milli">"Milisekunda"</string>
+    <string name="accessibility_time_picker_minute">"Minuta"</string>
+    <string name="accessibility_time_picker_second">"Sekunda"</string>
+    <string name="actionbar_share">"Skupna raba"</string>
+    <string name="actionbar_web_search">"Spletno iskanje"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-sl/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="color_picker_button_black">"Črna"</string>
+    <string name="color_picker_button_blue">"Modra"</string>
+    <string name="color_picker_button_cancel">"Prekliči"</string>
+    <string name="color_picker_button_cyan">"Cianova"</string>
+    <string name="color_picker_button_green">"Zelena"</string>
+    <string name="color_picker_button_magenta">"Škrlatna"</string>
+    <string name="color_picker_button_more">"Več"</string>
+    <string name="color_picker_button_red">"Rdeča"</string>
+    <string name="color_picker_button_set">"Nastavi"</string>
+    <string name="color_picker_button_white">"Bela"</string>
+    <string name="color_picker_button_yellow">"Rumena"</string>
+    <string name="color_picker_dialog_title">"Izbira barve"</string>
+    <string name="color_picker_hue">"Odtenek"</string>
+    <string name="color_picker_saturation">"Nasičenost"</string>
+    <string name="color_picker_value">"Vrednost"</string>
+    <string name="copy_to_clipboard_failure_message">"Kopiranje v odložišče ni uspelo"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-sl/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="date_picker_dialog_clear">"Počisti"</string>
+    <string name="date_picker_dialog_other_button_label">"Drugo"</string>
+    <string name="date_picker_dialog_set">"Nastavi"</string>
+    <string name="date_picker_dialog_title">"Nastavitev datuma"</string>
+    <string name="date_time_picker_dialog_title">"Nastavitev datuma in časa"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-sl/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="low_memory_error">"Prejšnjega dejanja ni mogoče končati, ker primanjkuje pomnilnika"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-sl/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="media_player_error_button">"V redu"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Ta video ni veljaven za pretakanje v to napravo."</string>
+    <string name="media_player_error_text_unknown">"Tega videa ni mogoče predvajati."</string>
+    <string name="media_player_error_title">"Videa ni mogoče predvajati"</string>
+    <string name="media_player_loading_video">"Nalaganje videa"</string>
+    <string name="month_picker_dialog_title">"Nastavitev meseca"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-sl/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="opening_file_error">"Izb. dat. ni bilo mogoče odpreti"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-sl/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="profiler_error_toast">"Orodja za spremljanje delovanja aplikacije ali sistema ni bilo mogoče zagnati"</string>
+    <string name="profiler_no_storage_toast">"Orodja za spremljanje delovanja aplikacije ali sistema ni mogoče zagnati, ker zunanja naprava za shranjevanje ni pripravljena"</string>
+    <string name="profiler_started_toast">"Orodje za spremljanje delovanja aplikacije ali sistema se je zagnalo"</string>
+    <string name="profiler_stopped_toast">"Orodje za spremljanje delovanja aplikacije ali sistema je končalo postopek. Rezultati so v datoteki %1$s."</string>
+    <string name="time_picker_dialog_am">"dop."</string>
+    <string name="time_picker_dialog_hour_minute_separator">":"</string>
+    <string name="time_picker_dialog_minute_second_separator">":"</string>
+    <string name="time_picker_dialog_pm">"pop."</string>
+    <string name="time_picker_dialog_second_subsecond_separator">"."</string>
+    <string name="time_picker_dialog_title">"Nastavitev časa"</string>
+    <string name="week_picker_dialog_title">"Nastavitev tedna"</string>
+
+</resources>

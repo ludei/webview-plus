@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-ro/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="accessibility_content_view">"Vizualizare pe web"</string>
+    <string name="accessibility_date_picker_month">"Lună"</string>
+    <string name="accessibility_date_picker_week">"Săptămână"</string>
+    <string name="accessibility_date_picker_year">"An"</string>
+    <string name="accessibility_datetime_picker_date">"Data"</string>
+    <string name="accessibility_datetime_picker_time">"Oră"</string>
+    <string name="accessibility_time_picker_ampm">"AM/PM"</string>
+    <string name="accessibility_time_picker_hour">"Oră"</string>
+    <string name="accessibility_time_picker_milli">"Milisecundă"</string>
+    <string name="accessibility_time_picker_minute">"Minut"</string>
+    <string name="accessibility_time_picker_second">"Secundă"</string>
+    <string name="actionbar_share">"Trimiteți"</string>
+    <string name="actionbar_web_search">"Căutare pe web"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-ro/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="color_picker_button_black">"Negru"</string>
+    <string name="color_picker_button_blue">"Albastru"</string>
+    <string name="color_picker_button_cancel">"Anulați"</string>
+    <string name="color_picker_button_cyan">"Cyan"</string>
+    <string name="color_picker_button_green">"Verde"</string>
+    <string name="color_picker_button_magenta">"Magenta"</string>
+    <string name="color_picker_button_more">"Mai multe"</string>
+    <string name="color_picker_button_red">"Roșu"</string>
+    <string name="color_picker_button_set">"Setați"</string>
+    <string name="color_picker_button_white">"Alb"</string>
+    <string name="color_picker_button_yellow">"Galben"</string>
+    <string name="color_picker_dialog_title">"Selectați culoarea"</string>
+    <string name="color_picker_hue">"Nuanță"</string>
+    <string name="color_picker_saturation">"Saturație"</string>
+    <string name="color_picker_value">"Valoare"</string>
+    <string name="copy_to_clipboard_failure_message">"Nu s-a copiat în clipboard"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-ro/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="date_picker_dialog_clear">"Ștergeți"</string>
+    <string name="date_picker_dialog_other_button_label">"Altele"</string>
+    <string name="date_picker_dialog_set">"Setați"</string>
+    <string name="date_picker_dialog_title">"Setați data"</string>
+    <string name="date_time_picker_dialog_title">"Setați data și ora"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-ro/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="low_memory_error">"Operația anterioară nu se poate finaliza, din cauza memoriei insuficiente"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-ro/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="media_player_error_button">"OK"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Ne pare rău, acest videoclip nu este valid pentru transmitere în flux pe acest dispozitiv."</string>
+    <string name="media_player_error_text_unknown">"Ne pare rău, acest videoclip nu poate fi redat."</string>
+    <string name="media_player_error_title">"Nu se poate reda videoclipul"</string>
+    <string name="media_player_loading_video">"Se încarcă video"</string>
+    <string name="month_picker_dialog_title">"Setați luna"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-ro/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="opening_file_error">"Fișier. select. nu s-a deschis"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-ro/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="profiler_error_toast">"Instrumentul de creare a profilului nu a putut porni"</string>
+    <string name="profiler_no_storage_toast">"Instrumentul de creare a profilului nu poate porni, deoarece stocarea externă nu este gata"</string>
+    <string name="profiler_started_toast">"Instrumentul de creare a profilului a pornit"</string>
+    <string name="profiler_stopped_toast">"Instrumentul de creare a profilului a finalizat operația. Rezultatele apar în %1$s."</string>
+    <string name="time_picker_dialog_am">"a.m."</string>
+    <string name="time_picker_dialog_hour_minute_separator">":"</string>
+    <string name="time_picker_dialog_minute_second_separator">":"</string>
+    <string name="time_picker_dialog_pm">"p.m."</string>
+    <string name="time_picker_dialog_second_subsecond_separator">"."</string>
+    <string name="time_picker_dialog_title">"Setați ora"</string>
+    <string name="week_picker_dialog_title">"Setați săptămâna"</string>
+
+</resources>

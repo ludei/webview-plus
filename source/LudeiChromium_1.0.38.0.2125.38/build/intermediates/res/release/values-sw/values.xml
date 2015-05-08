@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-sw/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="accessibility_content_view">"Mwonekano wa Wavuti"</string>
+    <string name="accessibility_date_picker_month">"Mwezi"</string>
+    <string name="accessibility_date_picker_week">"Juma"</string>
+    <string name="accessibility_date_picker_year">"Mwaka"</string>
+    <string name="accessibility_datetime_picker_date">"Tarehe"</string>
+    <string name="accessibility_datetime_picker_time">"Muda"</string>
+    <string name="accessibility_time_picker_ampm">"AM / PM"</string>
+    <string name="accessibility_time_picker_hour">"Saa"</string>
+    <string name="accessibility_time_picker_milli">"Milisekunde"</string>
+    <string name="accessibility_time_picker_minute">"Dakika"</string>
+    <string name="accessibility_time_picker_second">"Sekunde"</string>
+    <string name="actionbar_share">"Shiriki"</string>
+    <string name="actionbar_web_search">"Tafuta kwenye wavuti"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-sw/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="color_picker_button_black">"Nyeusi"</string>
+    <string name="color_picker_button_blue">"Samawati"</string>
+    <string name="color_picker_button_cancel">"Ghairi"</string>
+    <string name="color_picker_button_cyan">"Samawati-Kijani"</string>
+    <string name="color_picker_button_green">"Kijani"</string>
+    <string name="color_picker_button_magenta">"Rangi ya damu ya mzee"</string>
+    <string name="color_picker_button_more">"Zaidi"</string>
+    <string name="color_picker_button_red">"Nyekundu"</string>
+    <string name="color_picker_button_set">"Weka"</string>
+    <string name="color_picker_button_white">"Nyeupe"</string>
+    <string name="color_picker_button_yellow">"Manjano"</string>
+    <string name="color_picker_dialog_title">"Chagua rangi"</string>
+    <string name="color_picker_hue">"Rangi"</string>
+    <string name="color_picker_saturation">"Kukolea"</string>
+    <string name="color_picker_value">"Thamani"</string>
+    <string name="copy_to_clipboard_failure_message">"Ilishindwa kunakiliwa kwenda kwenye ubao klipu."</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-sw/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="date_picker_dialog_clear">"Futa"</string>
+    <string name="date_picker_dialog_other_button_label">"Nyingine"</string>
+    <string name="date_picker_dialog_set">"Weka"</string>
+    <string name="date_picker_dialog_title">"Weka tarehe"</string>
+    <string name="date_time_picker_dialog_title">"Weka tarehe na saa"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-sw/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="low_memory_error">"Imeshindwa kukamilisha jukumu lililotangulia kwa sababu ya nafasi ndogo ya hifadhi"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-sw/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="media_player_error_button">"Sawa"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Samahani, video hii sio sahihi kutiririshwa kwenye kifaa hiki."</string>
+    <string name="media_player_error_text_unknown">"Samahani, video hii haiwezi kuchezwa."</string>
+    <string name="media_player_error_title">"Haiwezi kucheza video"</string>
+    <string name="media_player_loading_video">"Inapakia video"</string>
+    <string name="month_picker_dialog_title">"Weka mwezi"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-sw/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="opening_file_error">"Imeshindwa kufungua faili iliyochaguliwa"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-sw/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="profiler_error_toast">"Imeshindwa kuanzisha kihoji rejesta"</string>
+    <string name="profiler_no_storage_toast">"Haiwezi kuanzisha kihoji rejesta kwa sababu hifadhi ya nje haiko tayari"</string>
+    <string name="profiler_started_toast">"Kihoji rejesta kimeanzishwa"</string>
+    <string name="profiler_stopped_toast">"Kihoji rejesta kimemaliza. Matokeo yako katika %1$s."</string>
+    <string name="time_picker_dialog_am">"AM"</string>
+    <string name="time_picker_dialog_hour_minute_separator">":"</string>
+    <string name="time_picker_dialog_minute_second_separator">":"</string>
+    <string name="time_picker_dialog_pm">"PM"</string>
+    <string name="time_picker_dialog_second_subsecond_separator">"."</string>
+    <string name="time_picker_dialog_title">"Weka muda"</string>
+    <string name="week_picker_dialog_title">"Weka wiki"</string>
+
+</resources>

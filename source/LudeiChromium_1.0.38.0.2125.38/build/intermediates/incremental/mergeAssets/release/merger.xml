@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/assets" >
+            <file
+                name="content_shell.pak"
+                path="/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/assets/content_shell.pak" />
+            <file
+                name="icudtl.dat"
+                path="/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/assets/icudtl.dat" />
+        </source>
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/src/release/assets" />
+    </dataSet>
+
+</merger>

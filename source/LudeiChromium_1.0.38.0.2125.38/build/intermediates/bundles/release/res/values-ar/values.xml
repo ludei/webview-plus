@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-ar/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="accessibility_content_view">"عرض الويب"</string>
+    <string name="accessibility_date_picker_month">"شهر"</string>
+    <string name="accessibility_date_picker_week">"الأسبوع"</string>
+    <string name="accessibility_date_picker_year">"عام"</string>
+    <string name="accessibility_datetime_picker_date">"التاريخ"</string>
+    <string name="accessibility_datetime_picker_time">"الوقت"</string>
+    <string name="accessibility_time_picker_ampm">"صباحًا/مساءً"</string>
+    <string name="accessibility_time_picker_hour">"الساعات"</string>
+    <string name="accessibility_time_picker_milli">"مللي ثانية"</string>
+    <string name="accessibility_time_picker_minute">"الدقائق"</string>
+    <string name="accessibility_time_picker_second">"الثواني"</string>
+    <string name="actionbar_share">"مشاركة"</string>
+    <string name="actionbar_web_search">"بحث الويب"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-ar/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="color_picker_button_black">"أسود"</string>
+    <string name="color_picker_button_blue">"أزرق"</string>
+    <string name="color_picker_button_cancel">"إلغاء"</string>
+    <string name="color_picker_button_cyan">"سماوي"</string>
+    <string name="color_picker_button_green">"أخضر"</string>
+    <string name="color_picker_button_magenta">"أرجواني"</string>
+    <string name="color_picker_button_more">"المزيد"</string>
+    <string name="color_picker_button_red">"أحمر"</string>
+    <string name="color_picker_button_set">"تعيين"</string>
+    <string name="color_picker_button_white">"أبيض"</string>
+    <string name="color_picker_button_yellow">"أصفر"</string>
+    <string name="color_picker_dialog_title">"اختيار اللون"</string>
+    <string name="color_picker_hue">"تدرج اللون"</string>
+    <string name="color_picker_saturation">"تشبع اللون"</string>
+    <string name="color_picker_value">"القيمة"</string>
+    <string name="copy_to_clipboard_failure_message">"أخفق النسخ إلى الحافظة"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-ar/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="date_picker_dialog_clear">"محو"</string>
+    <string name="date_picker_dialog_other_button_label">"أخرى"</string>
+    <string name="date_picker_dialog_set">"تعيين"</string>
+    <string name="date_picker_dialog_title">"تعيين التاريخ"</string>
+    <string name="date_time_picker_dialog_title">"تعيين التاريخ والوقت"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-ar/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="low_memory_error">"تعذر إكمال العملية السابقة نظرًا لانخفاض الذاكرة"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-ar/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="media_player_error_button">"موافق"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"عذرًا، هذا الفيديو غير صالح للبث إلى هذا الجهاز."</string>
+    <string name="media_player_error_text_unknown">"عذرًا، لا يمكن تشغيل هذا الفيديو."</string>
+    <string name="media_player_error_title">"لا يمكن تشغيل الفيديو"</string>
+    <string name="media_player_loading_video">"تحميل الفيديو"</string>
+    <string name="month_picker_dialog_title">"تعيين الشهر"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-ar/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="opening_file_error">"أخفق فتح الملف المحدد"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-ar/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="profiler_error_toast">"أخفق بدء المحلل"</string>
+    <string name="profiler_no_storage_toast">"لا يمكن بدء المحلل لأن وحدة التخزين الخارجية غير جاهزة"</string>
+    <string name="profiler_started_toast">"تم بدء المحلل"</string>
+    <string name="profiler_stopped_toast">"انتهى المحلل. توجد النتائج في %1$s."</string>
+    <string name="time_picker_dialog_am">"صباحًا"</string>
+    <string name="time_picker_dialog_hour_minute_separator">":"</string>
+    <string name="time_picker_dialog_minute_second_separator">":"</string>
+    <string name="time_picker_dialog_pm">"مساءً"</string>
+    <string name="time_picker_dialog_second_subsecond_separator">"."</string>
+    <string name="time_picker_dialog_title">"تعيين الوقت"</string>
+    <string name="week_picker_dialog_title">"تعيين الأسبوع"</string>
+
+</resources>

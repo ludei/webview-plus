@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-tl/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="accessibility_content_view">"View ng Web"</string>
+    <string name="accessibility_date_picker_month">"Buwan"</string>
+    <string name="accessibility_date_picker_week">"Linggo"</string>
+    <string name="accessibility_date_picker_year">"Taon"</string>
+    <string name="accessibility_datetime_picker_date">"Petsa"</string>
+    <string name="accessibility_datetime_picker_time">"Oras"</string>
+    <string name="accessibility_time_picker_ampm">"AM/PM"</string>
+    <string name="accessibility_time_picker_hour">"Oras"</string>
+    <string name="accessibility_time_picker_milli">"Millisecond"</string>
+    <string name="accessibility_time_picker_minute">"Minuto"</string>
+    <string name="accessibility_time_picker_second">"Segundo"</string>
+    <string name="actionbar_share">"Ibahagi"</string>
+    <string name="actionbar_web_search">"Paghahanap sa web"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-tl/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="color_picker_button_black">"Itim"</string>
+    <string name="color_picker_button_blue">"Asul"</string>
+    <string name="color_picker_button_cancel">"Ikansela"</string>
+    <string name="color_picker_button_cyan">"Cyan"</string>
+    <string name="color_picker_button_green">"Berde"</string>
+    <string name="color_picker_button_magenta">"Magenta"</string>
+    <string name="color_picker_button_more">"Higit pa"</string>
+    <string name="color_picker_button_red">"Pula"</string>
+    <string name="color_picker_button_set">"Itakda"</string>
+    <string name="color_picker_button_white">"Puti"</string>
+    <string name="color_picker_button_yellow">"Dilaw"</string>
+    <string name="color_picker_dialog_title">"Pumili ng kulay"</string>
+    <string name="color_picker_hue">"Hue"</string>
+    <string name="color_picker_saturation">"Saturation"</string>
+    <string name="color_picker_value">"Value"</string>
+    <string name="copy_to_clipboard_failure_message">"Nabigong kopyahin sa clipboard"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-tl/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="date_picker_dialog_clear">"I-clear"</string>
+    <string name="date_picker_dialog_other_button_label">"Iba pa"</string>
+    <string name="date_picker_dialog_set">"Itakda"</string>
+    <string name="date_picker_dialog_title">"Magtakda ng petsa"</string>
+    <string name="date_time_picker_dialog_title">"Itakda ang petsa at oras"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-tl/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="low_memory_error">"Hindi makumpleto ang nakaraang operasyon dahil sa mababang memory"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-tl/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="media_player_error_button">"OK"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Paumanhin, di-wasto ang video na ito para sa pag-stream sa device na ito."</string>
+    <string name="media_player_error_text_unknown">"Paumanhin, hindi mape-play ang video na ito."</string>
+    <string name="media_player_error_title">"Hindi ma-play ang video"</string>
+    <string name="media_player_loading_video">"Naglo-load"</string>
+    <string name="month_picker_dialog_title">"Itakda ang buwan"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-tl/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="opening_file_error">"Hindi mabuksan ang napiling file"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-tl/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="profiler_error_toast">"Nabigong simulan ang profiler"</string>
+    <string name="profiler_no_storage_toast">"Hindi masimulan ang profiler dahil hindi handa ang panlabas na storage"</string>
+    <string name="profiler_started_toast">"Nagsimula na ang profiler"</string>
+    <string name="profiler_stopped_toast">"Tapos na ang profiler. Ang mga resulta ay nasa %1$s."</string>
+    <string name="time_picker_dialog_am">"AM"</string>
+    <string name="time_picker_dialog_hour_minute_separator">":"</string>
+    <string name="time_picker_dialog_minute_second_separator">":"</string>
+    <string name="time_picker_dialog_pm">"PM"</string>
+    <string name="time_picker_dialog_second_subsecond_separator">"."</string>
+    <string name="time_picker_dialog_title">"Itakda ang oras"</string>
+    <string name="week_picker_dialog_title">"Itakda ang linggo"</string>
+
+</resources>

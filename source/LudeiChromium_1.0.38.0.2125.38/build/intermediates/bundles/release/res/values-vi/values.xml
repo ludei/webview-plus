@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-vi/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="accessibility_content_view">"Lượt xem trên web"</string>
+    <string name="accessibility_date_picker_month">"Tháng"</string>
+    <string name="accessibility_date_picker_week">"Tuần"</string>
+    <string name="accessibility_date_picker_year">"Năm"</string>
+    <string name="accessibility_datetime_picker_date">"Ngày Tháng"</string>
+    <string name="accessibility_datetime_picker_time">"Thời gian"</string>
+    <string name="accessibility_time_picker_ampm">"SA/CH"</string>
+    <string name="accessibility_time_picker_hour">"Giờ"</string>
+    <string name="accessibility_time_picker_milli">"Mili giây"</string>
+    <string name="accessibility_time_picker_minute">"Phút"</string>
+    <string name="accessibility_time_picker_second">"Giây"</string>
+    <string name="actionbar_share">"Chia sẻ"</string>
+    <string name="actionbar_web_search">"Tìm kiếm trên web"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-vi/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="color_picker_button_black">"Đen"</string>
+    <string name="color_picker_button_blue">"Xanh lam"</string>
+    <string name="color_picker_button_cancel">"Hủy"</string>
+    <string name="color_picker_button_cyan">"Lục lam"</string>
+    <string name="color_picker_button_green">"Xanh lục"</string>
+    <string name="color_picker_button_magenta">"Đỏ thẫm"</string>
+    <string name="color_picker_button_more">"Thêm"</string>
+    <string name="color_picker_button_red">"Đỏ"</string>
+    <string name="color_picker_button_set">"Đặt"</string>
+    <string name="color_picker_button_white">"Trắng"</string>
+    <string name="color_picker_button_yellow">"Vàng"</string>
+    <string name="color_picker_dialog_title">"Chọn màu"</string>
+    <string name="color_picker_hue">"Màu sắc"</string>
+    <string name="color_picker_saturation">"Độ bão hòa"</string>
+    <string name="color_picker_value">"Giá trị"</string>
+    <string name="copy_to_clipboard_failure_message">"Sao chép sang khay nhớ tạm không thành công"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-vi/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="date_picker_dialog_clear">"Xóa"</string>
+    <string name="date_picker_dialog_other_button_label">"Khác"</string>
+    <string name="date_picker_dialog_set">"Đặt"</string>
+    <string name="date_picker_dialog_title">"Đặt ngày"</string>
+    <string name="date_time_picker_dialog_title">"Đặt ngày giờ"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-vi/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="low_memory_error">"Không thể hoàn tất thao tác trước do bộ nhớ thấp"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-vi/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="media_player_error_button">"OK"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Rất tiếc, video này không hợp lệ để phát trực tuyến sang thiết bị này."</string>
+    <string name="media_player_error_text_unknown">"Rất tiếc, không thể phát video này."</string>
+    <string name="media_player_error_title">"Không thể phát video"</string>
+    <string name="media_player_loading_video">"Đang tải video"</string>
+    <string name="month_picker_dialog_title">"Đặt tháng"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-vi/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="opening_file_error">"Không mở được tệp đã chọn"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-vi/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="profiler_error_toast">"Không khởi động được profiler"</string>
+    <string name="profiler_no_storage_toast">"Không thể khởi động profiler vì bộ nhớ ngoài không sẵn sàng"</string>
+    <string name="profiler_started_toast">"Đã chạy Profiler"</string>
+    <string name="profiler_stopped_toast">"Đã hoàn tất Profiler. Kết quả có trong %1$s."</string>
+    <string name="time_picker_dialog_am">"SA"</string>
+    <string name="time_picker_dialog_hour_minute_separator">":"</string>
+    <string name="time_picker_dialog_minute_second_separator">":"</string>
+    <string name="time_picker_dialog_pm">"CH"</string>
+    <string name="time_picker_dialog_second_subsecond_separator">"."</string>
+    <string name="time_picker_dialog_title">"Đặt thời gian"</string>
+    <string name="week_picker_dialog_title">"Đặt tuần"</string>
+
+</resources>

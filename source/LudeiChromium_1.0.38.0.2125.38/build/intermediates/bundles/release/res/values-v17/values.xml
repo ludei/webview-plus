@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-v17/styles.xml -->
+    <eat-comment />
+
+    <style name="DropdownPopupWindow" parent="@android:style/Widget.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/dropdown_popup_background</item>
+    </style>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values-v17/styles2.xml -->
+    <eat-comment />
+
+    <style name="SelectPopupDialog">
+        <item name="select_dialog_singlechoice">@android:layout/select_dialog_singlechoice</item>
+        <item name="select_dialog_multichoice">@android:layout/select_dialog_multichoice</item>
+    </style>
+
+</resources>

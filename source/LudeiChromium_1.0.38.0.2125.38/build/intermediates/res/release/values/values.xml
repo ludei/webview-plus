@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values/attrs.xml -->
+    <eat-comment />
+
+    <attr name="select_dialog_multichoice" format="reference" />
+    <attr name="select_dialog_singlechoice" format="reference" />
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="color_picker_background_color">#FFFFFF</color>
+    <color name="color_picker_border_color">#B0B0B0</color>
+    <color name="dropdown_dark_divider_color">#C0C0C0</color>
+    <color name="dropdown_divider_color">#E5E5E5</color>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="color_button_height">60dp</dimen>
+    <dimen name="color_picker_gradient_margin">14.5dp</dimen>
+    <dimen name="config_min_scaling_span">27.0mm</dimen>
+    <dimen name="config_min_scaling_touch_major">48.0dp</dimen>
+    <dimen name="dropdown_item_divider_height">1px</dimen>
+    <dimen name="dropdown_item_height">44dp</dimen>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values/dimens2.xml -->
+    <eat-comment />
+
+    <dimen name="link_preview_overlay_radius">7dp</dimen>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="dropdown_popup_window" type="id"/>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="accessibility_content_view">"Web View"</string>
+    <string name="accessibility_date_picker_month">"Month"</string>
+    <string name="accessibility_date_picker_week">"Week"</string>
+    <string name="accessibility_date_picker_year">"Year"</string>
+    <string name="accessibility_datetime_picker_date">"Date"</string>
+    <string name="accessibility_datetime_picker_time">"Time"</string>
+    <string name="accessibility_time_picker_ampm">"AM/PM"</string>
+    <string name="accessibility_time_picker_hour">"Hour"</string>
+    <string name="accessibility_time_picker_milli">"Millisecond"</string>
+    <string name="accessibility_time_picker_minute">"Minute"</string>
+    <string name="accessibility_time_picker_second">"Second"</string>
+    <string name="actionbar_share">"Share"</string>
+    <string name="actionbar_web_search">"Web search"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="color_picker_button_black">"Black"</string>
+    <string name="color_picker_button_blue">"Blue"</string>
+    <string name="color_picker_button_cancel">"Cancel"</string>
+    <string name="color_picker_button_cyan">"Cyan"</string>
+    <string name="color_picker_button_green">"Green"</string>
+    <string name="color_picker_button_magenta">"Magenta"</string>
+    <string name="color_picker_button_more">"More"</string>
+    <string name="color_picker_button_red">"Red"</string>
+    <string name="color_picker_button_set">"Set"</string>
+    <string name="color_picker_button_white">"White"</string>
+    <string name="color_picker_button_yellow">"Yellow"</string>
+    <string name="color_picker_dialog_title">"Select color"</string>
+    <string name="color_picker_hue">"Hue"</string>
+    <string name="color_picker_saturation">"Saturation"</string>
+    <string name="color_picker_value">"Value"</string>
+    <string name="copy_to_clipboard_failure_message">"Failed to copy to the clipboard"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="date_picker_dialog_clear">"Clear"</string>
+    <string name="date_picker_dialog_other_button_label">"Other"</string>
+    <string name="date_picker_dialog_set">"Set"</string>
+    <string name="date_picker_dialog_title">"Set date"</string>
+    <string name="date_time_picker_dialog_title">"Set date and time"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="low_memory_error">"Unable to complete previous operation due to low memory"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="media_player_error_button">"OK"</string>
+    <string name="media_player_error_text_invalid_progressive_playback">"Sorry, this video is not valid for streaming to this device."</string>
+    <string name="media_player_error_text_unknown">"Sorry, this video cannot be played."</string>
+    <string name="media_player_error_title">"Cannot play video"</string>
+    <string name="media_player_loading_video">"Loading video"</string>
+    <string name="month_picker_dialog_title">"Set month"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values/android_ui_strings.xml -->
+    <eat-comment />
+
+    <string name="opening_file_error">"Failed to open selected file"</string>
+    <!-- From: file:/Users/Shared/Jenkins/Home/Jenkins/jobs/ludei_chromium_canary/workspace/vagrant/eclipse/res/values/android_content_strings.xml -->
+    <eat-comment />
+
+    <string name="profiler_error_toast">"Failed to start profiler"</string>
+    <string name="profiler_no_storage_toast">"Can\'t start profiler because external storage is not ready"</string>
+    <string name="profiler_started_toast">"Profiler started"</string>
+    <string name="profiler_stopped_toast">"Profiler finished. Results are in %1$s."</string>
+    <string name="time_picker_dialog_am">"AM"</string>
+    <string name="time_picker_dialog_hour_minute_separator">":"</string>
+    <string name="time_picker_dialog_minute_second_separator">":"</string>
+    <string name="time_picker_dialog_pm">"PM"</string>
+    <string name="time_picker_dialog_second_subsecond_separator">"."</string>
+    <string name="time_picker_dialog_title">"Set time"</string>
+    <string name="week_picker_dialog_title">"Set week"</string>
+
+</resources>

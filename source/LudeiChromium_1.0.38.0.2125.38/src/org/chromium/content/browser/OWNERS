@@ -1,0 +1,21 @@
+# Device Motion / Orientation API related
+per-file DeviceMotionAndOrientation.java=mvanouwerkerk@chromium.org
+per-file DeviceMotionAndOrientation.java=timvolodine@chromium.org
+
+# Geolocation API related
+per-file LocationProvider.java=mvanouwerkerk@chromium.org
+per-file LocationProvider.java=timvolodine@chromium.org
+
+# Screen Orientation API related
+per-file ScreenOrientation*.java=mlamouri@chromium.org
+
+# Battery Status API related
+per-file BatteryStatusManager.java=timvolodine@chromium.org
+
+# Input handling related
+jdduke@chromium.org
+
+# Process management related
+per-file BindingManager*.java=ppi@chromium.org
+per-file ChildProcessConnection*.java=ppi@chromium.org
+per-file ChildProcessLauncher.java=ppi@chromium.org
