@@ -1,3 +1,6 @@
+# IMPORTANT: This project has been discontinued. For the latest Webview+ for iOS, please go to the new Cocoon Cloud at http://cocoon.io. 
+The new Cocoon cloud is completely Cordova based and has enhanced features that include: the most up to date Webview+, new Cocoon plugins, a better Developer App, support for any Cordova plugin and a revamped UI.
+
 # Webview+ for Android #
 
 This project is a plugin for cordova/phonegap apps, and provides a **uniform webview on any Android 4.x device.**.
